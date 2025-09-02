@@ -1,0 +1,27 @@
+{
+  "name": "testing-practice",
+  "version": "1.0.0",
+  "description": "testing-practice",
+  "homepage": "https://github.com/ChivuAndrei2003/Testing-Practice#readme",
+  "bugs": {
+    "url": "https://github.com/ChivuAndrei2003/Testing-Practice/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChivuAndrei2003/Testing-Practice.git"
+  },
+  "license": "ISC",
+  "author": "ChivuAndrei2003",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "webpack": "^5.101.3",
+    "webpack-cli": "^6.0.1"
+  }
+}
